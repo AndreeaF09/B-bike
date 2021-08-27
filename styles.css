@@ -173,7 +173,7 @@ font-family: 'Merriweather Sans', sans-serif;
     display: block; !important
   }
 
-@media (max-width: 768px){
+/*@media (max-width: 768px){
 body {
   font-size 16px;
 }
@@ -203,3 +203,5 @@ aside {
 
 
 }
+
+*/
